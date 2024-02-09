@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "Pookie please",
       "Don't do this to me :(",
       "You're breaking my heart",
-      "I'm gonna cry...",
+      "I still love you:)))))",
     ];
 
     const messageIndex = Math.min(noCount, messages.length - 1);
